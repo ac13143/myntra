@@ -1,1 +1,2 @@
 This file contains some dummy text.
+Adding a line to know about difference b/w branches.
